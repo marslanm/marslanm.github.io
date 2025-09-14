@@ -9,7 +9,7 @@ profile:
   image: publication_preview/io_pi.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> IT:U, Linz, Auistria (2018) </p>
+    <p>@ IT:U, Linz, Auistria </p>
 
 
 news: true  # includes a list of news items
