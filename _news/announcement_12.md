@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Media Graph Mind (MGM) accepted in NAACL-2025
+[Media Graph Mind (MGM)](https://aclanthology.org/2025.naacl-long.373/) accepted in NAACL-2025 (oral). 
